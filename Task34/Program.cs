@@ -2,17 +2,34 @@
 
 // [345, 897, 568, 234] -> 2
 
-console.clear();
+Console.WriteLine("Введите размер массива");
+int size = Convert.ToInt32(Console.ReadLine());
+int[] numbers = new int[size];
+FillArrayRandomNumbers(numbers);
+Console.WriteLine("Вот наш массив: ");
+PrintArray(numbers);
+int count = 0;
 
-int[] GetArray(int size, int MinValue, MaxValue)
+for (int z = 0; z < numbers.Length; z++)
+if (numbers[z] % 2 == 0)
+count++;
+
+Console.WriteLine($"всего {numbers.Length} чисел, {count} из них чётные");
+
+void FillArrayRandomNumbers(int[] numbers)
 {
-    int[] Result = new int [size];
-
-    for (int i = 0; i < size; i++)
+    for(int i = 0; i < numbers.Length; i++)
     {
-        Result[i] = new Random().Next(MinValue, MaxValue + 1);
-
+        numbers[i] = new Random().Next(100,1000);
     }
-    return Result;
 }
-
+void PrintArray(int[] numbers)
+{
+    Console.Write("[ ");
+    for(int i = 0; i < numbers.Length; i++)
+    {
+        Console.Write(numbers[i] + " ");
+    }
+    Console.Write("]");
+    Console.WriteLine();
+}
