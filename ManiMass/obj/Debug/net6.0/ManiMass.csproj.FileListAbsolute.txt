@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Lesson_3\ManiMass\bin\Debug\net6.0\ManiMass.exe
+C:\Users\User\Desktop\Lesson_3\ManiMass\bin\Debug\net6.0\ManiMass.deps.json
+C:\Users\User\Desktop\Lesson_3\ManiMass\bin\Debug\net6.0\ManiMass.runtimeconfig.json
+C:\Users\User\Desktop\Lesson_3\ManiMass\bin\Debug\net6.0\ManiMass.dll
+C:\Users\User\Desktop\Lesson_3\ManiMass\bin\Debug\net6.0\ManiMass.pdb
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\ManiMass.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\ManiMass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\ManiMass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\ManiMass.AssemblyInfo.cs
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\ManiMass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\ManiMass.dll
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\refint\ManiMass.dll
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\ManiMass.pdb
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\ManiMass.genruntimeconfig.cache
+C:\Users\User\Desktop\Lesson_3\ManiMass\obj\Debug\net6.0\ref\ManiMass.dll
