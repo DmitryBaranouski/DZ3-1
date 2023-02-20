@@ -16,7 +16,6 @@ int E=N%10;
 
 if (N<100000 & N>9999)
 {
-    if (A==E & B==D);
 }
     Console.WriteLine($"число {N} является полиндромом");
      if (A !=E || B !=D)
